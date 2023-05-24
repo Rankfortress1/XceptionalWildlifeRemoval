@@ -201,6 +201,7 @@ img {
   width: 100%;
   padding: 20px;
 }
+
 </style>
 <div class="two-col">
         <div style="display: flex ; justify-content: center;padding-left: 0px;"><a href="https://www.charlestonwildlifecontrol.com/"> <img style="height: 75px;width: 50%;" src="https://www.charlestonwildlifecontrol.com/wp-content/uploads/2023/01/xceptional-logo.webp" alt="South Carolina wildlife removal"></div>
