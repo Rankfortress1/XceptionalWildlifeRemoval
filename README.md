@@ -1,11 +1,9 @@
-<head> <meta http-equiv="Content-type" content="text/html;charset=UTF-8"></head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Xceptional Wildlife Removal</title>
 </head>
 <style>
@@ -290,6 +288,7 @@ img {
                   </section>
                      <section class="head">
                       We are the professionals: If you’re not comfortable handling the damages, or the wildlife prevention techniques yourself.  Our South Carolina wildlife removal team has trained carpenters on staff who are experts in the exclusion and repair of all types of wildlife damage. Our trained repair professionals are experts in replacing wood fascia, insulation removal, and replacement. We cover any other types of damage caused by nuisance animals.
+                  </section>
                   </section>
             <!--Embeds-->
             <section>
